@@ -209,15 +209,14 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub Statistics"/>
+  <img src="./github-metrics.svg"
+       width="100%"
+       alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="./metrics-languages.svg" width="80%" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Monalisakabi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Monalisakabi&theme=tokyonight&hide_border=true"
+       alt="GitHub Streak"/>
 </p>
 
 ---
