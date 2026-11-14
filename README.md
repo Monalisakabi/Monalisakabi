@@ -220,14 +220,17 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 </p>
 
 ---
-## 🏆 GitHub Achievements
+---
 
-<p align="center">
-  <img src="./github-achievements.svg"
-       width="100%"
-       alt="GitHub Achievements"/>
-</p>
+## 🏆 Achievements & Certifications
 
+| 🏅 Achievement | Details |
+|---|---|
+| 🚀 Hackathon | XPLORA INNOVATION 2026 – 24-Hour Offline Hackathon, CUTM |
+| 📜 Internship | Web Development Internship – Elevate by Artham Research |
+| 💻 Certification | C Programming – GeeksforGeeks (GFG) |
+
+---
 ---
 
 ## 🐍 My Contribution Graph
