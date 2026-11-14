@@ -9,8 +9,15 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monalisakabi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Monalisakabi?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+
+  <a href="https://github.com/Monalisakabi">
+    <img src="https://komarev.com/ghpvc/?username=Monalisakabi&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+
+  <a href="https://github.com/Monalisakabi?tab=followers">
+    <img src="https://img.shields.io/github/followers/Monalisakabi?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers"/>
+  </a>
+
 </p>
 
 ---
