@@ -217,7 +217,7 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 
 <p align="center">
   <img src="./github-metrics.svg"
-       width="100%"
+       width="480"
        alt="GitHub Statistics"/>
 </p>
 
