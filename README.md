@@ -220,11 +220,12 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Monalisakabi&theme=tokyonight&no-frame=true&margin-w=10" width="100%" alt="GitHub Trophies"/>
+  <img src="./github-achievements.svg"
+       width="100%"
+       alt="GitHub Achievements"/>
 </p>
 
 ---
