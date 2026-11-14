@@ -209,9 +209,11 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Monalisakabi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisakabi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
+  <img src="./github-metrics.svg" width="100%" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="./metrics-languages.svg" width="80%" alt="Top Languages"/>
 </p>
 
 <p align="center">
