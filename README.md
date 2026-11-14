@@ -5,7 +5,7 @@
 <h3 align="center">💻 Full-Stack Developer | ☕ Java Developer | 🎓 MCA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Java+%7C+Spring+Boot+Developer;Angular+%7C+MySQL+%7C+Redis;Exploring+AI%2FML+%26+Distributed+Systems;Building+Ideas+Into+Reality+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;Angular+%7C+MySQL+%7C+Redis;Exploring+AI%2FML+and+Kafka" alt="Typing Animation"/>
 </p>
 
 <p align="center">
@@ -209,8 +209,9 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Monalisakabi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisakabi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Monalisakabi&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monalisakabi&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -222,7 +223,7 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Monalisakabi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Monalisakabi&theme=tokyonight&no-frame=true&margin-w=10" width="100%" alt="GitHub Trophies"/>
 </p>
 
 ---
