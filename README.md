@@ -228,14 +228,14 @@ A movie ticket booking application that provides a smooth movie discovery and bo
 
 ---
 ---
-
 ## 🏆 Achievements & Certifications
 
 | 🏅 Achievement | Details |
 |---|---|
 | 🚀 Hackathon | XPLORA INNOVATION 2026 – 24-Hour Offline Hackathon, CUTM |
-| 📜 Internship | Web Development Internship – Elevate by Artham Research |
-| 💻 Certification | C Programming – GeeksforGeeks (GFG) |
+| ☕ Internship | Core Java Internship – Whizzo Infotech Pvt. Ltd. |
+| 💻 Internship | Java Full Stack Internship – Appticode Pvt. Ltd. |
+| 📜 Certification | C Programming – GeeksforGeeks (GFG) |
 
 ---
 ---
